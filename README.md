@@ -1,20 +1,26 @@
 ### 🔧 Quick Setup
 
 1. **Update:**
-   ```apt update```
+   ```bash
+   apt update```
 
-2. **Upgrade:**
-   ```apt upgrade```
+3. **Upgrade:**
+   ```bash
+   apt upgrade```
 
-3. **storage:**
-   ```termux-setup-storage```
+4. **storage:**
+   ```bash
+   termux-setup-storage```
 
-4. **python:**
-   ```termux-setup-storage```
+5. **python:**
+   ```bash
+   termux-setup-storage```
 
-5. **wget:**
-   ```pkg install wget```
+7. **wget:**
+   ```bash
+   pkg install wget```
 
-6. **install raw:**
-   ```Installation
+9. **install raw:**
+   ```bash
+   Installation
 wget https://raw.githubusercontent.com/maythushar-music/stringsession/dev/session/ssgen.py```
